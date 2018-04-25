@@ -1,0 +1,24 @@
+								Calculator Manual
+
+
+About Product - This calculator was developed solely for calculating predefined shapes
+both 2D and 3D. The calculations for each shape was pre written by the developer.
+
+How to Use - This calculation has a few hot keys forexample -1 can be used to quit the program.
+lets take you through how to use: 
+	
+	First you need to sign in.
+
+	Next you choose the dimension.
+
+	After the above you then select the shape which leads you to the metho of 
+	calculation.
+
+	After the above you can then select your metric unit of choice then from there
+	you will see the calculation screen theis screen is looped unitl the user decides
+	to exit and navigate else where.
+
+	Now the navigational menus a pretty self explanatory and simplified that even a novice
+	can understand.
+
+	

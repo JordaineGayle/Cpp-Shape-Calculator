@@ -1,0 +1,17 @@
+#ifndef DOMATH_H
+#define DOMATH_H
+#include "includes.h"
+#include "domath.h"
+using namespace std;
+class DoMath
+{
+    public:
+        DoMath();
+        float AreaOf4SidedFigure(float side1, float side2, string shape);
+        float AreaOfTrapizium(float side1,float side2, float side3);
+        float PerimeterOf4SidedFigure(float side1, float side2, string shape);
+
+    private:
+};
+
+#endif // DOMATH_H

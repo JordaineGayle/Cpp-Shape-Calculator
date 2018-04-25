@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1508453828 source:c:\users\jorda\desktop\c++ programming\projectsolveit\main.cpp
+	"includes.h"
+
+1510160140 c:\users\jorda\desktop\c++ programming\projectsolveit\includes.h
+	<iostream>
+	<iomanip>
+	<math.h>
+	<stdlib.h>
+	<cstdlib>
+	<cstdio>
+	<windows.h>
+	<dos.h>
+	<string.h>
+	<string>
+	<limits>
+	<vector>
+	<sstream>
+	"usermanual.h"
+	"welcomemessage.h"
+	"usermenu.h"
+	"domath.h"
+	<conio.h>
+	"rlutil.h"
+
+1507987081 c:\users\jorda\desktop\c++ programming\projectsolveit\usermanual.h
+	"includes.h"
+
+1508458423 c:\users\jorda\desktop\c++ programming\projectsolveit\welcomemessage.h
+	"includes.h"
+
+1507987075 source:c:\users\jorda\desktop\c++ programming\projectsolveit\usermanual.cpp
+	"includes.h"
+
+1510162007 source:c:\users\jorda\desktop\c++ programming\projectsolveit\welcomemessage.cpp
+	"includes.h"
+
+1508455001 c:\users\jorda\desktop\c++ programming\projectsolveit\usermenu.h
+	"includes.h"
+
+1510160869 source:c:\users\jorda\desktop\c++ programming\projectsolveit\usermenu.cpp
+	"includes.h"
+
+1464925768 c:\users\jorda\desktop\c++ programming\projectsolveit\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1508458308 c:\users\jorda\desktop\c++ programming\projectsolveit\domath.h
+	"includes.h"
+
+1510160090 source:c:\users\jorda\desktop\c++ programming\projectsolveit\domath.cpp
+	"includes.h"
+
+1507990858 c:\users\jorda\desktop\c++ programming\projectsolveit\findit.h
+

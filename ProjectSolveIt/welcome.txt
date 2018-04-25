@@ -1,0 +1,4 @@
+Dim message, sapi
+message="Hey, My name is Jarvis i was designed to make calculating easier and fun! It was my duty to welcome you all remember math is fun so have fun using me to solve problems!"
+Set sapi=CreateObject("sapi.spvoice")
+sapi.Speak message
